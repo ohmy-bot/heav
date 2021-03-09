@@ -12,7 +12,7 @@
 
 #sudo apt-get -y install cuda
 
-git clone [https://github.com/xmrig/xmrig-cuda.git]
+git clone https://github.com/xmrig/xmrig-cuda.git
 
 mkdir xmrig-cuda/build && cd xmrig-cuda/build
 
